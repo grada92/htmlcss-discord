@@ -187,9 +187,13 @@ gap: 40px;
     background-color: #f6f6f6;
 }
 
-.flex .wave {
+.wave {
     margin: auto;
     background-color: red;
+}
+
+.flex-wave {
+    display: flex;
 }
 
 .section h1 {
@@ -200,4 +204,21 @@ gap: 40px;
     font-size: 50px;
 
 }
+
+.footer1 h1 {
+    color: #7289da;
+    font-size: 40px;
+}
+
+.itasymbol {
+    height: 20px;
+    margin-top: 20px;
+   margin-right: 5px;
+}
+
+.itasymbol h3 {
+    color: white;
+}
+
+
 
