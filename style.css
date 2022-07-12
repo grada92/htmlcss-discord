@@ -17,8 +17,6 @@ body{
 
 .containerheader {
     background-color: #3161e0;
-    height: auto;
-
 }
 
 .header1 {
@@ -61,11 +59,9 @@ a {
 }
  .containerheader2 {
     background-color: blanchedalmond;
-    height: auto;
-    height: 500px;
-    background-image: url(img_discord/jumbo.png);
     background-size: cover;
-
+    background-image: url(img_discord/jumbo.png);
+    height: 550px;
  }
 
 
@@ -102,8 +98,7 @@ a {
  .section {
     justify-content: center;
     align-items: center;
-    padding: 200px;
-    margin: 100px;
+    padding: 100px;
     border: 2px red solid;
  }
 
@@ -114,6 +109,8 @@ a {
     margin: 50px;
     flex-basis: 400px;
     gap: 20px;
+    padding: 70px;
+    text-align: left;
  }
 
  p {
@@ -185,11 +182,12 @@ gap: 40px;
  .section2 {
     justify-content: center;
     align-items: center;
-    padding: 200px;
-     margin: 100px;
+    padding: 100px;
     border: 2px red solid;
+    background-color: #f6f6f6;
 }
 
- .flex.section2 {
-    background: color #f6f6f6;;
- }
+.flex .wave {
+    margin: auto;
+    background-color: red;
+}
