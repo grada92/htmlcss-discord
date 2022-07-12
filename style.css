@@ -25,7 +25,6 @@ body{
     background-color: #3161e0;
     flex-basis: 50px;
     flex-direction: row;
-    border: 2px rgb(193, 19, 19) solid;
     color: white;
     height: 100px;
     justify-content: space-around;
@@ -100,11 +99,9 @@ a {
     justify-content: center;
     align-items: center;
     padding: 100px;
-    border: 2px red solid;
  }
 
  .corpotesto {
-    border: 1px red solid;
     flex-direction: column;
     flex-grow: 0;
     margin: 50px;
@@ -184,7 +181,6 @@ gap: 40px;
     justify-content: center;
     align-items: center;
     padding: 100px;
-    border: 2px red solid;
     background-color: #f6f6f6;
 }
 
