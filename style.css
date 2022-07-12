@@ -191,9 +191,14 @@ gap: 40px;
 .wave {
     height: 120px;
     display: block;
-    
-
 }
+
+.wave2 {
+    height: 120px;
+    display: block;
+    transform: rotate(180deg);
+}
+
 .section h1 {
     font-size: 50px;
 }
