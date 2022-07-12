@@ -1,0 +1,180 @@
+/* Generics */
+
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+/* Content */
+
+body{
+    font-family: sans-serif;
+}
+.flex {
+    display: flex;
+}
+
+.containerheader {
+    background-color: #3161e0;
+    height: auto;
+}
+
+.header1 {
+    flex-wrap: nowrap;
+    background-color: #3161e0;
+    flex-basis: 50px;
+    flex-direction: row;
+    border: 2px rgb(193, 19, 19) solid;
+    color: white;
+    height: 100px;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0px 100px
+}
+
+.flex .menu {
+   gap: 50px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+#button1 {
+    background-color: white;
+    border-radius: 40px;
+    padding: 10px;
+    color: black;
+}
+
+.header2 {
+    flex-basis: 100%;
+    justify-content: center;
+    text-align: center;
+    padding: 110px;
+    color: white;
+    margin: 0 210px;
+    display: inlines
+}
+ .containerheader2 {
+    background-color: blanchedalmond;
+    height: auto;
+    height: 500px;
+ }
+
+
+ h2 {
+    line-height: 50px;
+    padding-top: 30px;
+ }
+
+ .button2 {
+    text-align: center;
+    margin: -60px;
+    justify-content: center;
+    gap: 40px;
+    display: flex;
+    ;
+ }
+
+ #buttonmac {
+   background-color: white;
+   border-radius: 30px;
+   padding: 20px;
+   color: black;
+   font-size: 20px;
+ }
+
+ #buttonbrowser {
+    background-color: #23272a;
+    color: white;
+    border-radius: 30px;
+    padding: 20px;
+    font-size: 20px;
+ }
+
+ .section {
+    justify-content: center;
+    align-items: center;
+    padding: 200px;
+    margin: 100px;
+    border: 2px red solid;
+ }
+
+ .corpotesto {
+    border: 1px red solid;
+    flex-direction: column;
+    flex-grow: 0;
+    margin: 50px;
+    flex-basis: 400px;
+    gap: 20px;
+ }
+
+ p {
+    font-size: 20px;
+    font-family: sans-serif;
+ }
+
+ .corpotesto2 {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 30px;
+    
+ }
+
+ #finalbutton {
+    background-color: #8ea1e1;
+    border-radius: 30px;
+    padding: 20px;
+    color: black;
+    font-size: 20px;
+ }
+
+ .sectionfooter {
+    justify-content: center;
+    background-color: #23272a;
+    height: 800px;
+    padding: 40px;
+ }
+
+
+ .footer1 {
+    border: 2px red solid;
+    flex-direction: column;
+    padding: 70px;
+ }
+
+ .flex .linktesto {
+flex-direction: column;
+gap: 40px;
+ }
+
+ .footer1 h2 {
+    color: #7289da;
+ }
+
+ .sectionfooter2 {
+    background-color: #23272a;
+ }
+
+ .footer2 {
+    border-top: 3px white solid;
+    margin: 0 80px;
+    justify-content: space-between;
+    padding: 20px;
+ }
+
+ #accedifooter {
+    background-color: #8ea1e1;
+    border-radius: 30px;
+    padding: 10px;
+    color:white;
+    font-size: 20px;
+
+
+ }
+
