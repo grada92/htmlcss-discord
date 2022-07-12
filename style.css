@@ -115,6 +115,7 @@ a {
  p {
     font-size: 20px;
     font-family: sans-serif;
+    line-height: 30px;
  }
 
  .corpotesto2 {
@@ -199,3 +200,4 @@ gap: 40px;
     font-size: 50px;
 
 }
+
