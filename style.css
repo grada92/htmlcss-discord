@@ -142,7 +142,6 @@ a {
 
 
  .footer1 {
-    border: 2px red solid;
     flex-direction: column;
     padding: 70px;
  }
@@ -185,12 +184,12 @@ gap: 40px;
 }
 
 .wave {
-    height: 120px;
+    height: 200px;
     display: block;
 }
 
 .wave2 {
-    height: 120px;
+    height: 200px;
     display: block;
     transform: rotate(180deg);
 }
