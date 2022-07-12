@@ -107,9 +107,8 @@ a {
     flex-direction: column;
     flex-grow: 0;
     margin: 50px;
-    flex-basis: 400px;
+    flex-basis: 380px;
     gap: 20px;
-    padding: 70px;
     text-align: left;
  }
 
@@ -190,4 +189,13 @@ gap: 40px;
 .flex .wave {
     margin: auto;
     background-color: red;
+}
+
+.section h1 {
+    font-size: 50px;
+}
+
+.section2 h1 {
+    font-size: 50px;
+
 }
