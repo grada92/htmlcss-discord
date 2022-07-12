@@ -1,3 +1,4 @@
+
 /* Generics */
 
 * {
@@ -188,14 +189,11 @@ gap: 40px;
 }
 
 .wave {
-    margin: auto;
-    background-color: red;
-}
+    height: 120px;
+    display: block;
+    
 
-.flex-wave {
-    display: flex;
 }
-
 .section h1 {
     font-size: 50px;
 }
@@ -222,6 +220,10 @@ gap: 40px;
 
 #stars {
 margin-top: -100px;
+}
+
+.social {
+    height: 10px;
 }
 
 
